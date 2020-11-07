@@ -13,3 +13,10 @@ body {
     background-size: 100%;
 
 }
+
+p {
+
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+}
